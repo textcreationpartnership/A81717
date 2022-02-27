@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A narrative of the great success God hath been pleased to give His Highness forces in Jamaica, against the King of Spains forces; together with a true relation of the Spaniards losing their plate-fleet, as it was communicated in a letter from the Governour of Jamaica. Published by His Highness special command.</title>
+            <author>Doyley, Edward.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81717</idno>
+            <idno type="STC">Wing D2114</idno>
+            <idno type="STC">Thomason E948_5</idno>
+            <idno type="STC">ESTC R207569</idno>
+            <idno type="EEBO-CITATION">99866613</idno>
+            <idno type="PROQUEST">99866613</idno>
+            <idno type="VID">168525</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81717)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168525)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 142:E948[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A narrative of the great success God hath been pleased to give His Highness forces in Jamaica, against the King of Spains forces; together with a true relation of the Spaniards losing their plate-fleet, as it was communicated in a letter from the Governour of Jamaica. Published by His Highness special command.</title>
+                  <author>Doyley, Edward.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Henry Hills, and John Field, printers to His Highness,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Edward Doyley.</note>
+                  <note>Annotations on Thomason copy: "June 20"; "June 20".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Naval operations --  Early works to 1800.</term>
+               <term>Jamaica --  History --  Early works to 1800.</term>
+               <term>Spain --  History --  Philip IV, 1621-1665 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168525:1" rendition="simple:additions"/>
+            <p>A NARRATIVE Of the Great SUCCESS God hath been pleaſed to give His High<g ref="char:EOLhyphen"/>neſs Forces in <hi>Jamaica,</hi> againſt the King of <hi>Spains</hi> Forces; Together with a true Relation of the <hi>Spaniards</hi> loſing their PLATE-FLEET, As it was Communicated in a Letter from the Governour of <hi>Jamaica.</hi>
+            </p>
+            <p>Publiſhed by His Highneſs special Command.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Henry Hills,</hi> and <hi>John Field,</hi> Printers to His Highneſs. 1658. <add>June 20</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:168525:2"/>
+            <pb n="1" facs="tcp:168525:2"/>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Ince my laſt to Your Honour, the Firſt of <hi>October</hi> laſt, I have had in<g ref="char:EOLhyphen"/>telligence, that the Galleons with Plate, I then mentioned to be at <hi>Car<g ref="char:EOLhyphen"/>thagena,</hi> bound for <hi>Spain,</hi> were caſt away by a <hi>Hirecane;</hi> and as an evident token thereof, the <hi>Burmudans,</hi> our Informants, being in a ſmall Shallop, brought in hither about Twenty thouſand pieces of <hi>Eight,</hi> which they had taken in the Rack. And according to my former to the Committee for <hi>Jamaica,</hi> having by a Priſoner notice, that about Five hundred of the Enemy were landed here, and that the Governour <hi>Don Chriſtopher Arnaldo Saſſer</hi> was fortifying himſelf at St. <hi>Anne,</hi> about Thirty five miles from us, I was re<g ref="char:EOLhyphen"/>ſolved to give him time to fortiſie ſo much, that he might think himſelf ſecure enough to ſtand us, (that we might not perpetually be put to the toyl of hunting them in the Woods) and yet ſo that he might not be able to give us any ſtrong reſiſt<g ref="char:EOLhyphen"/>ance: which accordingly being done, I ſent a Party of Stout, Well and Willing men, under the command of Major <hi>Richard Steevens,</hi> to whom about Sixty of our Officers joyned, Volunteers, ex<g ref="char:EOLhyphen"/>ceedingly
+<pb n="2" facs="tcp:168525:3"/> deſirous of action (after ſo long a ceſſa<g ref="char:EOLhyphen"/>tion) who advanced to the place, very ſtrongly ſci<g ref="char:EOLhyphen"/>tuated on a Rock: as ſoon as the Enemies Centi<g ref="char:EOLhyphen"/>nels diſcovered them, they threw down their Arms, gave the Allarm to the Governour, who with the reſt fled to the Woods, leaving behinde them all their Arms and Ammunition: ſo, finding the vanity of following them in the Woods and Mountains, we left them.</p>
+            <p>Before our Party came in, our Ships brought in a <hi>Portugal</hi> running in to <hi>Cuba,</hi> who examined, told me that there were Five hundred landed about the middle of <hi>July,</hi> that they had marched up the Countrey, and finding the ſcarcity of provioſions, (contrary to what was told them) were almoſt ſtar<g ref="char:EOLhyphen"/>ved, had endeavoured to mutiny; and that about Three hundred of them were by the <hi>Spaniſh</hi> Com<g ref="char:EOLhyphen"/>manders returned to a place called the <hi>Chareras,</hi> in the <hi>North,</hi> over againſt <hi>Cuba,</hi> where they firſt landed, where was their Magazine, and Proviſions, and more men and Proviſions dayly expected, where likewiſe they were fortified and received their relief, which he had Twice carried them.</p>
+            <p>Upon this intelligence, I met the Party coming home, and diſmiſſing about a hundred to their Plantations, (which wanted them) I ſhipped the reſt under the ſame command, on Board the <hi>Indian,</hi> and went my ſelf with them for the better carry<g ref="char:EOLhyphen"/>ing on and expediting the buſineſs.</p>
+            <p>The 24 of <hi>October</hi> we ſet Sail from <hi>Cagway.</hi> point, and the 30 ſtood over againſt the place. Ear<g ref="char:EOLhyphen"/>ly in the morning we ſpied a Sail from <hi>Cuba,</hi> run<g ref="char:EOLhyphen"/>ing
+<pb n="3" facs="tcp:168525:3"/> in to the place we were bound for, who had come with relief, but told them he could not un<g ref="char:EOLhyphen"/>lade himſelf, becauſe he ſaw Ships at Sea. Our Party landed Six miles below the place intended, there being no place nearer, and marcht on; who ere they had marched Two miles, were ſaluted with a round Volley out of a Wood, at which ours, pre<g ref="char:EOLhyphen"/>pared for before by their Orders, never made ſtand, but fired in boldly at the Ambuſcado, in which the Enemy had Four wounded, we One; the Captain with the reſt made haſt to their Fort, and ours ſo faſt after them, that onely the Cap<g ref="char:EOLhyphen"/>tain, and Four of forty could get in.</p>
+            <p>Our Party found them very well prepared with Matches lighted in the Stockadoes, (for that is the manner of their fortification, with great Trees and Flankers) ours leaving a Third for a reſerve, with<g ref="char:EOLhyphen"/>out any gradual approaches, preſently ran up to their Work, and with their Muſquets poſſeſt as much advantage, as the Enemy, (the Work be<g ref="char:EOLhyphen"/>ing not at all Lined) between whom for the ſpace of near Three quarters of an hour, was a ſtiff diſ<g ref="char:EOLhyphen"/>pute, till ſome of ours with the help of Hatchets, (which they were ordered to carry) made a Breach, and entred; as ſoon as the Enemy ſaw that, they betook themſelves to run over the Rocks, leaping into the Sea, and ſhifting for themſelves (though the Officers endeavoured to rally them) yet made not ſuch haſt, but that they left One hundred and twenty, or thereabouts dead on the place, and many wounded, amongſt whom were moſt of the Officers; the <hi>Maſtre del Campe Don Francis De
+<pb n="4" facs="tcp:168525:4"/> Prencia,</hi> by means of a Priſoner of ours, whom he kept by him, got quarter, and ſome others whom we found in the Rocks, (whom though we had received barbarous uſage from them) we could not kill in cool blood.</p>
+            <p>We took here Thirty three Barrels of Powder, with Match and Bullet proportionable, and good ſtore of Bread and Salt, and likewiſe their Mu<g ref="char:EOLhyphen"/>ſters, their Commiſſaries book; which Powder, and what we took before from the Governour, within leſs then Two Barrels did ballance the Commiſſaries Accompt, ſo that they were wholly deprived of that: And that which did more indear our Succeſs; we had onely Four men killed, and a<g ref="char:EOLhyphen"/>bout Ten wounded, ſome whereof I have ſent home, and humbly and earneſtly deſire they may be provided for.</p>
+            <p>After I had refreſht the men, I put them aboard again, and with ſmall Parties in ſeveral little Boats, Scoured all the Coaſt, and left them that fled nei<g ref="char:EOLhyphen"/>ther Boats not time to get away; ſince which time ſome are come in to us almoſt ſtarved. The <hi>Ne<g ref="char:EOLhyphen"/>groes,</hi> formerly their Slaves, uſing them roughly, and denying them Proviſions, ſo that I ſaw a Let<g ref="char:EOLhyphen"/>ter from <hi>Don Francis de Liva,</hi> the Deputy-Gover<g ref="char:EOLhyphen"/>nour, to one of his former Slaves, wofully bemoan<g ref="char:EOLhyphen"/>ing the condition of his Majeſties Infantry, and giving him the Title of Worſhip at every word: to ſuch a neceſſity are they reduced, and we have not been idle to purſue them in all quarters, though we now lie ſtill for want of Shooes, if there ſhould any more of the Enemy come,
+<pb n="5" facs="tcp:168525:4"/> which we have reaſon to expect; for that I finde by Letters, that the Governour of <hi>Cuba, Don Pe<g ref="char:EOLhyphen"/>ter de Bayona,</hi> being an old Souldier in <hi>Italy,</hi> doth not onely heartily ſolicite it, but makes a great be<g ref="char:EOLhyphen"/>nefit by it, having received money from the <hi>Vice Roy,</hi> for the payment of Three Moneths to the Souldiers, according to their Kings expreſs com<g ref="char:EOLhyphen"/>mand, whereof they never received any; and ſince that, hath received Twenty thouſand pieces of <hi>Eight</hi> from the <hi>Vice Roy</hi> for levying more men. I ſhall not fail in my endeavours to prepare for their coming, and doubt not, but that the King of <hi>Spains</hi> leſſening his Garriſons, may in time pro<g ref="char:EOLhyphen"/>duce good effect to our Nation.</p>
+            <p>I have ſent the <hi>Maſtre del Campe,</hi> the Colours, ſome Paper and Letters; he is the onely man here<g ref="char:EOLhyphen"/>abouts, and hath chiefly adviſed in this relief, and therefore I hope ſhall not be releaſed till we are better ſetled. I had almoſt forgot to acquaint your Honour, that the Enemy at their firſt coming, ſent a Lieutenant, and two more, to ſcatter Papers amongſt our Souldiers; ſignifying, that who would come to them, ſhould have fair quarter and tranſport; who being met withall by ſome of our Hunters, were all kil'd, and ſo that hopefull de<g ref="char:EOLhyphen"/>ſign of theirs had no effect: And that the Gover<g ref="char:EOLhyphen"/>nour of <hi>Porto Rico,</hi> having ſet One hundred men to demand ſome <hi>Engliſh,</hi> living in new <hi>Iurtola,</hi> a Coloney of the <hi>Dutch,</hi> being refuſed to have them delivered up, was in his return caſt away by the <hi>Hericane,</hi> one onely <hi>Mulatto</hi> eſcaped. The King of <hi>Spains</hi> Affairs do very much fail in theſe parts,
+<pb n="6" facs="tcp:168525:5"/> and his Trade is almoſt brought to nothing, by the many Private Men of War of <hi>Engliſh</hi> and <hi>French,</hi> and ours are ſtill abroad to annoy them.</p>
+            <p>All I have more is, onely to intreat your Ho<g ref="char:EOLhyphen"/>nour, and all our Friends with us, to magnifie the goodneſs of God, who hath given yet by his glim<g ref="char:EOLhyphen"/>mering, ſome hopes, that he altogether hath not forgotten us, but doth, and will at length conti<g ref="char:EOLhyphen"/>nue to own his Servants, who truſt in him, and to ſubſcribe my ſelf,</p>
+            <closer>
+               <signed>Your moſt Obedient and Faithfull Servant, <hi>Edward Doyley.</hi>
+               </signed> 
+               <dateline>Cagway. <date>Feb. 3. 1657.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:168525:5" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
